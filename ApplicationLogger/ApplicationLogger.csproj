@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>TWI_FB_USA_ApplicationLogger</PackageId>
+    <Authors>Rahul Vats</Authors>
+    <Company>TOPWAY INNOVATORS</Company>
+    <Product>Application Logger</Product>
+    <Description>Application Logger</Description>
+    <Copyright>Copyright © TOPWAY INNOVATORS - TWI 2018. All Rights Reserved.</Copyright>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
